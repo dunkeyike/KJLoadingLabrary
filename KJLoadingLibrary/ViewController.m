@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"처음으로 fork 해봤어. 이런거구나 잇힝~");
 }
 
 - (void)didReceiveMemoryWarning
